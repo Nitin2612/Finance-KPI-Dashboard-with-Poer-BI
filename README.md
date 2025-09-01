@@ -50,7 +50,7 @@ This project demonstrates how businesses can use **data visualization and DAX me
 
 # 8. Screenshot / Demo  
 
-![Finance KPI Dashboard]([finance-kpi-dashboard-with-power-bi.png](https://github.com/Nitin2612/Finance-KPI-Dashboard-with-Poer-BI/blob/main/finance-kpi-dashboard-with-power-bi.png))  
+![Finance KPI Dashboard]  
 
 https://github.com/Nitin2612/Finance-KPI-Dashboard-with-Poer-BI/blob/main/finance-kpi-dashboard-with-power-bi.png
 
