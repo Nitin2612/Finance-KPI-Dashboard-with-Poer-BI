@@ -51,5 +51,7 @@ This project demonstrates how businesses can use **data visualization and DAX me
 # 8. Screenshot / Demo  
 
 ![Finance KPI Dashboard]([finance-kpi-dashboard-with-power-bi.png](https://github.com/Nitin2612/Finance-KPI-Dashboard-with-Poer-BI/blob/main/finance-kpi-dashboard-with-power-bi.png))  
+https://github.com/Nitin2612/Finance-KPI-Dashboard-with-Poer-BI/blob/main/finance-kpi-dashboard-with-power-bi.png
+
 
 *(Sample Dashboard built in Power BI showing KPI cards, monthly variance, and salesperson performance analysis)*  
